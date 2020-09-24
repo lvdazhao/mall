@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # mall2
+=======
+# mall
+>>>>>>> 57b1ea100a4f1b303727d50cb4bb1a4276fa7088
 
 ## Project setup
 ```
